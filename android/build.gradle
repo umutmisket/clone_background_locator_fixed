@@ -25,7 +25,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
-    namespace "com.yukams.background_locator_2"
+    namespace "com.yukams.background_locator_2_umut"
     compileSdkVersion 31
 
     sourceSets {
